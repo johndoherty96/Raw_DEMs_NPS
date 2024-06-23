@@ -43,6 +43,13 @@ And a clipped & Reprojected Vector Contour: <br/>
 <br />
 <br />
 
+<h2>Citations and Acknowledgment:</h2>
+- <b>This project was submitted as a Final Project for Penn State University GEOG 485</b>
+- <b>"NPS Boundary." Public-nps.Opendata.Arcgis.Com, 8 May 2024, public-nps.opendata.arcgis.com/datasets/nps-boundary-1/explore. Accessed 14 Jun. 2024.
+https://public-nps.opendata.arcgis.com/datasets/nps-boundary-1/explore </b> 
+- <b>United States Geological Survey (2021). United States Geological Survey 3D Elevation Program 1 arc-second Digital Elevation Model. Distributed by OpenTopography. https://doi.org/10.5069/G98K778D. Accessed: 2024-06-12 
+https://portal.opentopography.org/rasterOutput?jobId=rt1718154267484 </b> 
+
 
 <!--
  ```diff
